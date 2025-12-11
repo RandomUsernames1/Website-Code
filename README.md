@@ -1,10 +1,10 @@
-# My Website:
+# My Business Website:
 
 ![Demo](output.gif)
 
-Welcome to the repository for **My Website**! 🚀
+Welcome to the repository for **My Business Website**! 🚀
 
-This repo contains all the code for my personal website. Feel free to explore, use, and improve it.  
+This repo contains all the code for my personal business website. Feel free to explore, use, and improve it.  
 
 ## Contributing
 
