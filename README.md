@@ -1,4 +1,6 @@
-# My Website
+# My Website:
+
+![Demo](output.gif)
 
 Welcome to the repository for **My Website**! 🚀
 
@@ -27,7 +29,7 @@ ETH: 0x5fe575b6d6b70867949d4564869c00a03bd18bb3
 
 Solana: 7Wkud1uFsuuj146SxtfhhA6EfbrREydSr2iFLrbTqDYc
 
-Bitcoin: bc1qqxsknanxnhk67wp3lgkzr5v7kk3dmcvxeycw9h 
+Bitcoin: bc1qqxsknanxnhk67wp3lgkzr5v7kk3dmcvxeycw9h
 
 ## email me in detail at:
 
