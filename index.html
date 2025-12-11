@@ -118,6 +118,38 @@
         background: rgba(255, 255, 255, 0.25);
     }
 
+
+/* Tooltip on hover */
+.btn {
+    position: relative; /* Needed for tooltip positioning */
+}
+
+.btn::after {
+    content: "Open in new tab";
+    position: absolute;
+    bottom: 120%; /* above the button */
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(0,0,0,0.75);
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 8px;
+    font-size: 0.85rem;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    z-index: 10;
+}
+
+.btn:hover::after {
+    opacity: 1;
+    transform: translateX(-50%) translateY(-5px); /* small pop-up effect */
+}
+
+
+
+
     .glass-title {
         padding: 12px 25px;
         background: rgba(255,255,255,0.08);
